@@ -1,0 +1,6 @@
+
+*.jpg
+flowers102data/flowers-102/102flowers.tgz
+flowers102data/flowers-102/imagelabels.mat
+flowers102data/flowers-102/setid.mat
+best_model.pth
