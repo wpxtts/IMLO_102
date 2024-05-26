@@ -4,3 +4,7 @@ flowers102data/flowers-102/102flowers.tgz
 flowers102data/flowers-102/imagelabels.mat
 flowers102data/flowers-102/setid.mat
 best_model.pth
+final_model.pth
+.ipynb_checkpoints/52model-checkpoint.ipynb
+.ipynb_checkpoints/52model copy 5-checkpoint.ipynb
+.ipynb_checkpoints/52model copy 4-checkpoint.ipynb
