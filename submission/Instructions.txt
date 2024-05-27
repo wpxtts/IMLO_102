@@ -1,0 +1,2 @@
+INSTRUCTIONS ON HOW TO RUN:
+- Running finishedModel.py will output first an accuracy percentage achieved by a model trained from scratch. Second: the code will load my models .pth file, and output the accuracy achieved when my model is loaded and run on the test data.
